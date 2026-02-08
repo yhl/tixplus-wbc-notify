@@ -1,4 +1,9 @@
 
+## 2026/02/08 新增單一場次刊登狀態通知 tixplus-wbc-bysingle-notify.js
+
+用法跟先前差不多，差別僅在於要指定場次編號（list_id）
+
+list_id 每場次都有一固定數值，可參考程式碼內的對照表自行設定
 
 ## 程式有兩種版本，for Google App Script 以及 for nodejs
 
